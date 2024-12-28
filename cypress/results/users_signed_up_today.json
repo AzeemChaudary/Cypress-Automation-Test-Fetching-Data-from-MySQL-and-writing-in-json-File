@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "username": "user",
+    "email": "user1@gmail.com",
+    "password": "$2b$10$fdogd/wWKIc1PHlib/buh.0gC9.yq1oq3Srhq2NF4vkH8Wt7RDX6C",
+    "signup_date": "2024-12-28"
+  },
+  {
+    "id": 2,
+    "username": "user",
+    "email": "user2@gmail.com",
+    "password": "$2b$10$NgR0gNjGOVd3E7p/Xz5F7uCSXRbW1Cnn/zfokI3O6h.buuIhobnqe",
+    "signup_date": "2024-12-28"
+  },
+  {
+    "id": 3,
+    "username": "user",
+    "email": "user3@gmail.com",
+    "password": "$2b$10$9dMfhKI.80/7t0W.8yYi9ugA8sZxOaSPRpFCY.kakJujyicWHtvBO",
+    "signup_date": "2024-12-28"
+  },
+  {
+    "id": 4,
+    "username": "user4",
+    "email": "user4@gmail.com",
+    "password": "$2b$10$PCOupCTksNogWsCtKfNUoOSpGYiYQ/tHYlhPiM.1GfR3EKjpIU9YK",
+    "signup_date": "2024-12-28"
+  }
+]
